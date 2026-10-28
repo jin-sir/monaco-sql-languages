@@ -1,0 +1,79 @@
+src/test/completionAdapter.test.ts
+  s_bdd9ee2d1f7455::t_11b7d7bf91b54b 88-102,138-139
+  s_e394376fd23b9b::t_376e4fcd7df882 1-60,71-87,218
+  s_9066554ea14dd7::t_611400b90cf3d0 163-168,179-184,194-199,207-212
+  s_9066554ea14dd7::t_895c1f24c3e73b 140-162,169-178,185-193,201-206,213,215-217
+  h_6590780f6d8f27 200,214
+  s_9066554ea14dd7::t_12ce13b0371b05 61-70,103-137
+README-zh_CN.md
+  s_e394376fd23b9b::t_52ed0fc8eeaca4 92-93
+  s_9066554ea14dd7::t_03ef23b7a003fb 101-103,105-106
+  h_6590780f6d8f27 104
+  s_9066554ea14dd7::t_f298931e6424ba 107
+website/src/languages/index.ts
+  s_e394376fd23b9b::t_93395bfab22778 80-81,93-94,106-107,119-120,132-133,145-146,158-159
+test/setup.js
+  h_6590780f6d8f27 35-36
+src/setupLanguageFeatures.ts
+  s_e394376fd23b9b::t_26b1f16b60fa23 198-204
+  s_e394376fd23b9b::t_7e3129a1e4b6ab 258-259
+src/monaco.contribution.ts
+  s_9066554ea14dd7::t_142faa8b3ce153 55-64
+  s_e394376fd23b9b::t_d71c271ac77026 261-262
+  s_e394376fd23b9b::t_c46f768775b27f 51-54,65-68
+src/languageFeatures.ts
+  s_9066554ea14dd7::t_8e391860b239e6 19-23,249
+  s_9066554ea14dd7::t_851b9ec7b3c939 204,214-216
+  h_6590780f6d8f27 224,254-255,302-303,317,322,327,329
+  s_e394376fd23b9b::t_78b479b56232d8 246-247
+  s_9066554ea14dd7::t_194b80e8774a69 337-338
+  s_9066554ea14dd7::t_cf0093a34ec004 250-253,256
+  s_9066554ea14dd7::t_7e70dd2f0a9156 287,289-290
+  s_9066554ea14dd7::t_33734cc611e33e 316,318-321,328
+  s_9066554ea14dd7::t_8b5f1bd4c9aca9 267-286,288,291-298,300-301,304-315,330-336,339-341
+  s_9066554ea14dd7::t_c789f455c2d604 299
+  s_9066554ea14dd7::t_aaa83e118e5e3d 323-326
+  s_9066554ea14dd7::t_d04dea5d4e890b 342
+README.md
+  s_9066554ea14dd7::t_3a83cbb970b682 101-103,105-106
+  h_6590780f6d8f27 104
+  s_e394376fd23b9b::t_aef123b40beefc 92-93
+  s_9066554ea14dd7::t_4d6e7bf29b038f 107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "cdce71591af4a226ac2d84cdbd9623d6a743c474",
+  "prompts": {},
+  "humans": {
+    "h_6590780f6d8f27": {
+      "author": "jin-sir <942725119@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_9066554ea14dd7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f98771b-27d5-4ad9-beb8-1b9a96a8f2d2",
+        "model": "kimi-k3"
+      },
+      "human_author": "jin-sir <942725119@qq.com>"
+    },
+    "s_bdd9ee2d1f7455": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49996f7f-1eaa-4f2f-860f-c486bcbae66c",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "jin-sir <942725119@qq.com>"
+    },
+    "s_e394376fd23b9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b504fc4e-92c8-4a92-8693-ef159af93a9a",
+        "model": "kimi-k2-8-preview"
+      },
+      "human_author": null
+    }
+  }
+}
