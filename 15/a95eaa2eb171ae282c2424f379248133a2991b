@@ -1,0 +1,14 @@
+package.json
+  h_6590780f6d8f27 107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "15a95eaa2eb171ae282c2424f379248133a2991b",
+  "prompts": {},
+  "humans": {
+    "h_6590780f6d8f27": {
+      "author": "jin-sir <942725119@qq.com>"
+    }
+  }
+}
